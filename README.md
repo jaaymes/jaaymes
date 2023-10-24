@@ -1,9 +1,7 @@
 
 #Olá! Eu sou Jaymes Costa
 
-- 🔭 Hoje eu trabalho com  Front-end
-- 🌱 Estudando React Native
-
+- 🔭 Hoje eu trabalho com  Front-end especialista em React e NextJs
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaaymes&theme=blue-green" alt="stats"  />
 
